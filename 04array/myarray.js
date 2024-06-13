@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var superHeros = [];
+// const heroPower:number []=[];
+var heroPower = [];
+superHeros.push("hello");
+heroPower.push(2);
+var allUser = [];
+allUser.push({ name: " ", isActive: true });
+var mlModel = [];
+mlModel.push([2333, 344, 445]);
